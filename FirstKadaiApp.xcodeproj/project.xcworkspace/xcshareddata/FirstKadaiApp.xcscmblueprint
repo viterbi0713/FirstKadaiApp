@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DA69B149ABBED470ED171B0A3624574ABD686CC4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DA69B149ABBED470ED171B0A3624574ABD686CC4" : 0,
+    "596E5B013FB26E3AF5A425106B8201240612498B" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3AB3D529-B1D5-461F-AFCA-100D29F2D67C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DA69B149ABBED470ED171B0A3624574ABD686CC4" : "FirstKadaiApp\/",
+    "596E5B013FB26E3AF5A425106B8201240612498B" : "FirstKadaiApp\/FirstKadaiApp\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FirstKadaiApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FirstKadaiApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/viterbi0713\/FirstKadaiApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "596E5B013FB26E3AF5A425106B8201240612498B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/viterbi0713\/firstkadaiapp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DA69B149ABBED470ED171B0A3624574ABD686CC4"
+    }
+  ]
+}
